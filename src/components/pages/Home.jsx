@@ -1,14 +1,12 @@
+import ProfilePic from '../../img/gina.png'
+
 function Home() {
   return (
     <div className="container">
       <div className="row">
         <div className="col-md-4">
           <div className="card">
-            <img
-              className="card-img-top"
-              src="/img/gina.png"
-              alt="Profile Pic"
-            />
+            <img className="card-img-top" src={ProfilePic} alt="Profile Pic" />
             <div className="card-body">
               <h5 className="card-title">Gina Jonas</h5>
               <span className="email">
@@ -29,7 +27,7 @@ function Home() {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="/pdf/Georgina-Jonas-Resume.pdf"
+                href="https://drive.google.com/file/d/1HB5s5dP-aOzaEUHB2ZizlBkgHAbPkeBQ/view?usp=sharing"
                 className="btn btn-primary"
               >
                 <i className="fa fa-file"></i>
