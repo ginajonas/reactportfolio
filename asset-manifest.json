@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactportfolio/static/css/main.2e321150.chunk.css",
-    "main.js": "/reactportfolio/static/js/main.30e47987.chunk.js",
-    "main.js.map": "/reactportfolio/static/js/main.30e47987.chunk.js.map",
+    "main.js": "/reactportfolio/static/js/main.86d8177c.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.86d8177c.chunk.js.map",
     "runtime-main.js": "/reactportfolio/static/js/runtime-main.eca8126f.js",
     "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.eca8126f.js.map",
     "static/js/2.34031a1f.chunk.js": "/reactportfolio/static/js/2.34031a1f.chunk.js",
@@ -11,12 +11,18 @@
     "static/js/3.54392938.chunk.js.map": "/reactportfolio/static/js/3.54392938.chunk.js.map",
     "index.html": "/reactportfolio/index.html",
     "static/css/main.2e321150.chunk.css.map": "/reactportfolio/static/css/main.2e321150.chunk.css.map",
-    "static/js/2.34031a1f.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.34031a1f.chunk.js.LICENSE.txt"
+    "static/js/2.34031a1f.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.34031a1f.chunk.js.LICENSE.txt",
+    "static/media/OOP-Hospital-project.0e201ccf.png": "/reactportfolio/static/media/OOP-Hospital-project.0e201ccf.png",
+    "static/media/Password-project.02c774d0.png": "/reactportfolio/static/media/Password-project.02c774d0.png",
+    "static/media/Scheduler-project.b424360b.png": "/reactportfolio/static/media/Scheduler-project.b424360b.png",
+    "static/media/Weather-project.14d8a174.png": "/reactportfolio/static/media/Weather-project.14d8a174.png",
+    "static/media/gina.63655be5.png": "/reactportfolio/static/media/gina.63655be5.png",
+    "static/media/travel-project.577605de.png": "/reactportfolio/static/media/travel-project.577605de.png"
   },
   "entrypoints": [
     "static/js/runtime-main.eca8126f.js",
     "static/js/2.34031a1f.chunk.js",
     "static/css/main.2e321150.chunk.css",
-    "static/js/main.30e47987.chunk.js"
+    "static/js/main.86d8177c.chunk.js"
   ]
 }
