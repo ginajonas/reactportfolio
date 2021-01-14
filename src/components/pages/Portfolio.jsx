@@ -5,29 +5,34 @@ function Portfolio() {
     <div className="container">
       <div className="row">
         <Card
-          img="https://avatars2.githubusercontent.com/u/68718445?s=460&u=e2149a52aef29f0cd00a35470bc10f0d7eab6e6d&v=4"
-          title="Gina Jonas"
-          link="/"
+          img="/img/OOP-Hospital-project.png"
+          title="OOP General Hospital Project"
+          githubLink="https://github.com/ginajonas/oop-general-hospital"
+          deployedLink="https://project-team-2.herokuapp.com"
         />
         <Card
-          img="https://avatars2.githubusercontent.com/u/68718445?s=460&u=e2149a52aef29f0cd00a35470bc10f0d7eab6e6d&v=4"
-          title="Gina Jonas"
-          link="/"
+          img="/img/travel-project.png"
+          title="Travel Project"
+          githubLink="https://github.com/joshualive/Project-1"
+          deployedLink="https://joshualive.github.io/Project-1"
         />
         <Card
-          img="https://avatars2.githubusercontent.com/u/68718445?s=460&u=e2149a52aef29f0cd00a35470bc10f0d7eab6e6d&v=4"
-          title="Gina Jonas"
-          link="/"
+          img="/img/Weather-project.png"
+          title="Weather Dashboard"
+          githubLink="https://github.com/ginajonas/Weather-Dashboard"
+          deployedLink="https://ginajonas.github.io/Weather-Dashboard"
         />
         <Card
-          img="https://avatars2.githubusercontent.com/u/68718445?s=460&u=e2149a52aef29f0cd00a35470bc10f0d7eab6e6d&v=4"
-          title="Gina Jonas"
-          link="/"
+          img="/img/Password-project.png"
+          title="Password Generator"
+          githubLink="https://github.com/ginajonas/Password-Generator"
+          deployedLink="https://ginajonas.github.io/Password-Generator"
         />
         <Card
-          img="https://avatars2.githubusercontent.com/u/68718445?s=460&u=e2149a52aef29f0cd00a35470bc10f0d7eab6e6d&v=4"
-          title="Gina Jonas"
-          link="/"
+          img="/img/Scheduler-project.png"
+          title="Work Day Scheduler"
+          githubLink="https://github.com/ginajonas/Work-Day-Scheduler"
+          deployedLink="https://ginajonas.github.io/Work-Day-Scheduler"
         />
       </div>
     </div>

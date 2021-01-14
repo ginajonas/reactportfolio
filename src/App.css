@@ -15,3 +15,13 @@
 nav, .card {
   margin-bottom: 10px;
 }
+.btn {
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.email i,
+a i
+ {
+  margin-right: 15px;
+}

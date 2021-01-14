@@ -1,5 +1,3 @@
-import { Link } from 'react-router-dom'
-
 function Home() {
   return (
     <div className="container">
@@ -8,17 +6,44 @@ function Home() {
           <div className="card">
             <img
               className="card-img-top"
-              src="https://avatars2.githubusercontent.com/u/68718445?s=460&u=e2149a52aef29f0cd00a35470bc10f0d7eab6e6d&v=4"
+              src="/img/gina.png"
               alt="Profile Pic"
             />
             <div className="card-body">
               <h5 className="card-title">Gina Jonas</h5>
-              <Link
-                to="https://github.com/ginajonas"
+              <span className="email">
+                <i className="fa fa-envelope"></i>
+                <a href="mailto:ginajonas7@gmail.com">ginajonas7@gmail.com</a>
+              </span>
+              <br />
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://github.com/ginajonas"
                 className="btn btn-primary"
               >
+                <i className="fab fa-github"></i>
                 GitHub
-              </Link>
+              </a>
+
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="/pdf/Georgina-Jonas-Resume.pdf"
+                className="btn btn-primary"
+              >
+                <i className="fa fa-file"></i>
+                Resume
+              </a>
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://www.linkedin.com/in/georgina-jonas-1796531b3/"
+                className="btn btn-primary"
+              >
+                <i className="fab fa-linkedin"></i>
+                LinkedIn
+              </a>
             </div>
           </div>
         </div>
@@ -27,8 +52,18 @@ function Home() {
             <div className="card-body">
               <h5 className="card-title">About Me</h5>
               <p className="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                I'm a dedicated mother of a wonderful 4 year old boy. I love
+                spending time with him and my lovely better half. I'm passionate
+                and enjoy the many challenges that life brings along. I'm a full
+                stack web developer leveraging healthcare and beauty and arts
+                background to build a more intuitive user experience on the web.
+                Currently earning a certificate in full stack development from
+                Carleton University in Ottawa. Known as an innovative problem
+                solver passionate about developing apps, with a focus on
+                mobile-first design and development. With each project, my aim
+                is to best engage my audience for an impactful user experience.
+                I’m excited to leverage my skills as part of a fast-paced,
+                quality-driven team to build better experiences on the web.
               </p>
             </div>
           </div>
