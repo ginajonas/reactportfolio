@@ -4,7 +4,6 @@ import hospital from '../../img/OOP-Hospital-project.png'
 import travel from '../../img/travel-project.png'
 import weather from '../../img/Weather-project.png'
 import password from '../../img/Password-project.png'
-import scheduler from '../../img/Scheduler-project.png'
 import google from '../../img/Google-Book-Search-project.png'
 function Portfolio() {
   return (
@@ -33,12 +32,6 @@ function Portfolio() {
           title="Password Generator"
           githubLink="https://github.com/ginajonas/Password-Generator"
           deployedLink="https://ginajonas.github.io/Password-Generator"
-        />
-        <Card
-          img={scheduler}
-          title="Work Day Scheduler"
-          githubLink="https://github.com/ginajonas/Work-Day-Scheduler"
-          deployedLink="https://ginajonas.github.io/Work-Day-Scheduler"
         />
         <Card
           img={google}
