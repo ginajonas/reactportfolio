@@ -5,6 +5,7 @@ import travel from '../../img/travel-project.png'
 import weather from '../../img/Weather-project.png'
 import password from '../../img/Password-project.png'
 import scheduler from '../../img/Scheduler-project.png'
+import google from '../../img/Google-Book-Search-project.png'
 function Portfolio() {
   return (
     <div className="container">
@@ -38,6 +39,12 @@ function Portfolio() {
           title="Work Day Scheduler"
           githubLink="https://github.com/ginajonas/Work-Day-Scheduler"
           deployedLink="https://ginajonas.github.io/Work-Day-Scheduler"
+        />
+        <Card
+          img={google}
+          title="Google Book Search"
+          githubLink="https://github.com/ginajonas/googlebooksearch"
+          deployedLink="https://react-google-book-search-gina.herokuapp.com/#/"
         />
       </div>
     </div>
