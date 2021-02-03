@@ -5,6 +5,8 @@ import travel from '../../img/travel-project.png'
 import weather from '../../img/Weather-project.png'
 import password from '../../img/Password-project.png'
 import google from '../../img/Google-Book-Search-project.png'
+import cookbook from '../../img/cookbook-project.png'
+
 function Portfolio() {
   return (
     <div className="container">
@@ -38,6 +40,12 @@ function Portfolio() {
           title="Google Book Search"
           githubLink="https://github.com/ginajonas/googlebooksearch"
           deployedLink="https://react-google-book-search-gina.herokuapp.com/#/"
+        />
+        <Card
+          img={cookbook}
+          title="Cookbook React App"
+          githubLink="https://github.com/ginajonas/Cookbook"
+          deployedLink="https://app-cookbook-gina.herokuapp.com/#/"
         />
       </div>
     </div>
